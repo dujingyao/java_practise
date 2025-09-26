@@ -2,7 +2,6 @@ package experiment.No1;
 
 import java.util.Scanner;
 
-// 输入一行字符，分别统计出大写字母、小写字母、空格、数字和其他字符的个数
 public class a_character {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
